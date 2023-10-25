@@ -1,0 +1,33 @@
+---
+title: "Gabriel Vilela"
+image: "picc.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/gabriel-l-vilela/"
+  - label: Email
+    url: "mailto:gmv5137@psu.edu"
+  - label: Resume
+    url: "Resume.pdf"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I am a driven Geography student at Penn State University, specializing in Geographic Information Systems and spatial analysis.I thrive in decoding the intricacies of our world through spatial data with a keen eye for patterns and a passion for innovative problem-solving.
+
+## Education
+
+**Pennsylvania State University** \| State College, PA
+
+B.S. Geography \| Certificate in GIS & Geospatial Big Data Analytics
+
+## Experience
+
+**Home Depot** \| Sales Associate \| June 2023 - Aug 2023
+
+**Goodwill NCPA** \| Sales Associate \| February 2023 - May 2023
+
+**Killington Mountain Resorts** \| Attendant \| June 2021 - Aug 2021
+
+**Camps Fatima & Bernadette** \| Counselor \| June 2017 - Aug 2019
