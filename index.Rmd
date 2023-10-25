@@ -1,6 +1,5 @@
 ---
 title: "Gabriel Vilela"
-image: "picc.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gabriel-l-vilela/"
@@ -8,19 +7,36 @@ links:
     url: "mailto:gmv5137@psu.edu"
   - label: Resume
     url: "Resume.pdf"
+  - label: Classwork Example
+    url: "G364_lab-2-Template-3.html"
 output:
   postcards::trestles
 ---
 
 ## Bio
 
-I am a driven Geography student at Penn State University, specializing in Geographic Information Systems and spatial analysis.I thrive in decoding the intricacies of our world through spatial data with a keen eye for patterns and a passion for innovative problem-solving.
+I am a driven Geography student at Penn State University, specializing in Geographic Information Systems and spatial analysis.I am most interested in contributing to UN Sustainable Development Goals 7, 9, and 11, focusing on ensuring access to affordable and clean energy, fostering innovation and industry, and creating sustainable, resilient cities and communities. I thrive in decoding the intricacies of our world through spatial data, bringing a keen eye for patterns and a passion for innovative problem-solving to the forefront of my academic and professional pursuits.
 
 ## Education
 
 **Pennsylvania State University** \| State College, PA
 
 B.S. Geography \| Certificate in GIS & Geospatial Big Data Analytics
+
+## Course Work
+**R** |
+Proficient in R programming language for statistical analysis and data visualization.
+Extensive experience in data manipulation, exploration, and statistical modeling using R. 
+
+**ArcGIS** |
+Highly skilled in ArcGIS for spatial analysis, mapping, and geospatial data visualization.
+Proficient in using ArcGIS tools and extensions to analyze and interpret spatial data.
+
+**Python** |
+proficiency in Python programming language for data analysis, automation, and scripting.
+
+**Energy Business Finance** |
+Solid understanding of energy business finance principles and concepts.
 
 ## Experience
 
