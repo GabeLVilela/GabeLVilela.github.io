@@ -7,8 +7,8 @@ links:
     url: "mailto:gmv5137@psu.edu"
   - label: Resume
     url: "Resume.pdf"
-  - label: Classwork Example
-    url: "G364_lab-2-Template-3.html"
+  - label: Classwork
+    url: "example.html"
 output:
   postcards::trestles
 ---
