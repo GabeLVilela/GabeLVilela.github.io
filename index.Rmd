@@ -9,6 +9,8 @@ links:
     url: "Resume.pdf"
   - label: Annotated Classwork
     url: "example.html"
+  - label: Example
+    url: "classwork.html"
 output:
   postcards::trestles
 ---
