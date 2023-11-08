@@ -4,10 +4,10 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gabriel-l-vilela/"
   - label: Email
-    url: "mailto:gmv5137@psu.edu"
+    url: "mailto:Vilelagabe@proton.me"
   - label: Resume
     url: "Resume.pdf"
-  - label: Classwork
+  - label: Annotated Classwork
     url: "example.html"
 output:
   postcards::trestles
@@ -19,31 +19,16 @@ I am a driven Geography student at Penn State University, specializing in Geogra
 
 ## Education
 
-**Pennsylvania State University** \| State College, PA
+**Pennsylvania State University** \| *State College, PA*
 
 B.S. Geography \| Certificate in GIS & Geospatial Big Data Analytics
 
-## Course Work
-**R** |
-Proficient in R programming language for statistical analysis and data visualization.
-Extensive experience in data manipulation, exploration, and statistical modeling using R. 
-
-**ArcGIS** |
-Highly skilled in ArcGIS for spatial analysis, mapping, and geospatial data visualization.
-Proficient in using ArcGIS tools and extensions to analyze and interpret spatial data.
-
-**Python** |
-proficiency in Python programming language for data analysis, automation, and scripting.
-
-**Energy Business Finance** |
-Solid understanding of energy business finance principles and concepts.
-
 ## Experience
 
-**Home Depot** \| Sales Associate \| June 2023 - Aug 2023
+**Home Depot** \| *Sales Associate* \| June 2023 - Aug 2023
 
-**Goodwill NCPA** \| Sales Associate \| February 2023 - May 2023
+**Goodwill NCPA** \| *Sales Associate* \| February 2023 - May 2023
 
-**Killington Mountain Resorts** \| Attendant \| June 2021 - Aug 2021
+**Killington Mountain Resorts** \| *Attendant* \| June 2021 - Aug 2021
 
-**Camps Fatima & Bernadette** \| Counselor \| June 2017 - Aug 2019
+**Camps Fatima & Bernadette** \| *Counselor* \| June 2017 - Aug 2019

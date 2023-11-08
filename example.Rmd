@@ -1,0 +1,31 @@
+---
+title: "Classwork"
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+#### **GEOG 364** - *Spatial Analysis*
+
+#### This course focuses on statistical methods with a heavy emphasis on how these methods can be used by geographers. Bolsters statistical knowledge as well as ability in R, the language that the entire of this portfolio was created in.
+
+#### **GEOG 260** - *Intro to GIScience*
+
+#### Geographic Information Systems is a vital capability for any would be geographer. This class provides a foundational understanding of the many uses and abilities of GIS software.
+
+#### **EBF 200 -** *Energy Earth Science Economics*
+
+#### A comprehensive course that explores the intersections of energy, earth science, and economics.
+
+#### **STAT 200 -** *Elementary Statistics*
+
+#### This course covers essential statistics concepts, including probability, distribution, inference, and regression. Students will learn to summarize data, sample from populations, construct confidence intervals, and perform statistical tests with p-values. The course also explores connections between probability and statistical inference using the normal distribution.
+
+#### **CMPSC 101 -** *Intro Programming*
+
+#### This course provides an introductory understanding of coding and provides a fundamental proficiency in python
